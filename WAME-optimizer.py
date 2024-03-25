@@ -6,9 +6,8 @@
 
 This project utilizes code from the following sources:
 
-
 https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2017-50.pdf
-  -Please ensure to cite Mosca et al (2017) if any of the code following is used.
+Please ensure to cite Mosca et al (2017) if any of the code following is used.
 
 """
 
